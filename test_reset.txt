@@ -1,3 +1,6 @@
 this is reset test 1
+<<<<<<< HEAD
 this is reset test 2
 this is reset test 3
+=======
+>>>>>>> parent of 9e3959e... two add reset test 2
