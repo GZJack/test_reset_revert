@@ -1,2 +1,3 @@
 this is reset test 1
 this is reset test 2
+this is reset test 3
